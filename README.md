@@ -36,15 +36,20 @@ To be associated with a progressive organization that would give me scope to app
 ## WORK - AMAZON INC
 
 **Period**           :Jun 2014 – till date (approx. 4+ year’s experience)
+
 **Designation**      : SDE 2
 
 ### PROJECTS DONE AT AMAZON INC
 
 * Worked on Product Detail page team and authored product image API. It is currently serving millions of requests per day.
 * Authored widget in Amazon Product Detail page (from scratch) for collecting and processing data quality issues.
-* Mentored several interns as well as new joinee's
-* Currently working on AWS Elastic search team(part of Amazon web services), where I worked on enabling large cluster (supporting Petabytes of data) in Amazon Elastic search instances, designed and built system that delivers near real time query performance information to debug elasticsearch clusters.
+* Holding couple of patent for rendering website adaptively based on customer's connectivity.
+* Mentored several interns as well as new joinee's.
+* Currently working on AWS Elastic search team(part of Amazon Web Services), where I worked on
+  * Enabling large cluster (supporting Petabytes of data) in Amazon Elastic search instances
+  * Making the service GDPR compliant
+  * Designing and building system that delivers near real time query performance information to debug elasticsearch clusters.
 
 ## ACADEMIC ACHIEVEMENTS
 
-* •	Topper of the class for all semesters
+* Topper of the class for all semesters
