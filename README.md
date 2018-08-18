@@ -17,9 +17,13 @@ To view/download PDF version of Resume [online click here](Vengadanathan_Resume.
 
 ### Clone this package and move to the project folder
 
+```
 git clone https://github.com/vengadanathan/MyResume.git
+```
 
+```
 cd MyResume
+```
 
 ### Building
 
