@@ -4,8 +4,9 @@
 
 ---
 ## Resume
-To view Resume (online click here)[Vengadanathan_Resume.md] (Markdown)
-To view/download PDF version of Resume (online click here)[Vengadanathan_Resume.pdf]
+To view Resume [online click here](Vengadanathan_Resume.md) (Markdown)
+
+To view/download PDF version of Resume [online click here](Vengadanathan_Resume.pdf)
 
 
 ## Building Resume
