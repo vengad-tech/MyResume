@@ -36,7 +36,7 @@ To be associated with a progressive organization that would give me scope to app
 
 ## WORK - AMAZON INC
 
-**Period**           :Jun 2014 – till date (approx. 4+ year’s experience)
+**Period**           :Jun 2014 - till date (approx. 4+ year's experience)
 
 **Designation**      : SDE 2
 
