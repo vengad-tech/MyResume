@@ -13,7 +13,7 @@ To view/download PDF version of Resume [online click here](Vengadanathan_Resume.
 
 ### Required software to be installed
 
-1. Docker needs to be installed and present. (Click here)[https://docs.docker.com/install/]
+1. Docker needs to be installed and present. [Click here](https://docs.docker.com/install/)
 
 ### Clone this package and move to the project folder
 
