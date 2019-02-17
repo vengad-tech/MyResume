@@ -1,5 +1,6 @@
 # Vengadanathan S - Resume
-#### Email: fantastic.next@gmail.com, vengadanathan@hotmail.com
+#### Email: hello@vengad.me
+#### PGP Key server: hkps://hkps.pool.sks-keyservers.net
 #### LinkedIn: [https://in.linkedin.com/in/vengadanathan-srinivasan-82564b33](https://in.linkedin.com/in/vengadanathan-srinivasan-82564b33)
 #### Resume Source: [https://github.com/vengadanathan/MyResume](https://github.com/vengadanathan/MyResume)
 

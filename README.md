@@ -1,5 +1,5 @@
 # Vengadanathan S - Resume
-#### Email: fantastic.next@gmail.com, vengadanathan@hotmail.com
+#### Email: hello@vengad.me
 #### Link: [LinkedIn](https://in.linkedin.com/in/vengadanathan-srinivasan-82564b33)
 
 ---
